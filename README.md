@@ -16,6 +16,9 @@
 | [Using JSON in APIs](https://github.com/potatoscript/json/wiki/Using-JSON-in-APIs) | Learn how JSON is used in APIs to send and receive data between servers and clients. |
 | [JSON with HTTP Requests](https://github.com/potatoscript/json/wiki/JSON-with-HTTP-Requests) | Understand how JSON is used in HTTP requests and responses for web applications. |
 | [Working with JSON in Python](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-Python) | Learn how to use JSON in Python with built-in libraries for parsing and generating JSON data. |
+| [Working with JSON in Python - Advanced](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-Python-Advanced) | Learn advanced techniques for working with JSON in Python, including handling complex data structures and streams. |
+| [Working with JSON in C#](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-CSharp) | Explore how to handle JSON in C# using libraries like `Newtonsoft.Json` (Json.NET) for serialization and deserialization. |
+| [Working with JSON in C# - Advanced](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-CSharp-Advanced) | Dive into advanced C# JSON handling, including custom serialization, deserialization, and working with nested objects. |
 | [Working with JSON in Java](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-Java) | Explore how to work with JSON in Java, including libraries such as Jackson and Gson for parsing JSON. |
 | [JSON Validation](https://github.com/potatoscript/json/wiki/JSON-Validation) | Learn how to validate JSON data to ensure its correctness and prevent errors in applications. |
 | [Formatting and Beautifying JSON](https://github.com/potatoscript/json/wiki/Formatting-and-Beautifying-JSON) | Explore how to format and pretty-print JSON for readability and debugging. |
@@ -35,7 +38,4 @@
 | [JSON and Cloud Services](https://github.com/potatoscript/json/wiki/JSON-and-Cloud-Services) | Learn how JSON is used in cloud computing environments, including AWS and Google Cloud. |
 | [JSON Web Tokens (JWT)](https://github.com/potatoscript/json/wiki/JSON-Web-Tokens) | Understand how JSON Web Tokens (JWT) are used for securely transmitting information between parties. |
 | [Advanced JSON Techniques](https://github.com/potatoscript/json/wiki/Advanced-JSON-Techniques) | Explore advanced topics such as JSON Patch, JSON Merge, and Streaming JSON parsing. |
-| [Working with JSON in C#](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-CSharp) | Explore how to handle JSON in C# using libraries like `Newtonsoft.Json` (Json.NET) for serialization and deserialization. |
-| [Working with JSON in Python - Advanced](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-Python-Advanced) | Learn advanced techniques for working with JSON in Python, including handling complex data structures and streams. |
-| [Working with JSON in C# - Advanced](https://github.com/potatoscript/json/wiki/Working-with-JSON-in-CSharp-Advanced) | Dive into advanced C# JSON handling, including custom serialization, deserialization, and working with nested objects. |
-| [JSON and Cloud Services](https://github.com/potatoscript/json/wiki/JSON-and-Cloud-Services) | Explore how JSON is used in cloud services, like AWS and Google Cloud, for data exchange and processing. |
+
